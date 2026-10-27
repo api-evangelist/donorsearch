@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-DonorSearch is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://donorsearch.net/
+DonorSearch provides a cloud‑based platform for donor prospect research, wealth screening, and fundraising intelligence. Leveraging AI and extensive donor data, it helps nonprofit organizations identify high‑value prospects, personalize outreach, and optimize campaign performance. The service includes API access for programmatic integration, enabling partners to embed donor insights directly into their applications and workflows.
+
+**Areas:** Company · Nonprofit · Fundraising · DonorResearch · API
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://donorsearch.net/)
+- [Documentation](https://www.donorsearch.net/api-integrations/)
+- [API reference](https://www.donorsearch.net/api-integrations/)
+- [Blog](https://www.donorsearch.net/type/blog/)
+- [Terms of service](https://www.donorsearch.net/terms-and-conditions/)
+- [Privacy policy](https://www.donorsearch.net/privacy-policy/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/donorsearch/](https://apis.io/providers/donorsearch/).
